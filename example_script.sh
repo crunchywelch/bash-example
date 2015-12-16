@@ -18,3 +18,5 @@ If you need any more help, please email us at hello@buildbox.io
 \033[31m<3\033[0m Buildkite"
 
 inline_image 'https://media0.giphy.com/media/8Ry7iAVwKBQpG/giphy.gif' 'Rainbows'
+
+echo "oh hai this is fun"
